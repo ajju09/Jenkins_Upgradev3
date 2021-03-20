@@ -3,7 +3,7 @@ pipeline {
       stages {
             stage('Init') {
                   steps {
-                        println "Hi, this is Anshul from LevelUp360"
+                        println "Hi, this is Fran from LevelUp360"
                         println "We are Starting the Testing"
                   }
             }
